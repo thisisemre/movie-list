@@ -1,0 +1,5 @@
+1995, Braveheart , Tarihi Drama , Mel Gibson , {(Mel Gibson , Erkek , ABD)(Sophie Marceau , Kadın , Fransa)}
+2010, Inception , Bilim Kurgu Gerilim , Christopher Nolan , {(Leonardo DiCaprio , Erkek , ABD)(Ellen Page , Kadın , Kanada)}
+2000, Gladiator , Tarihi Drama Aksiyonu , Ridley Scott , {(Russell Crowe , Erkek , Yeni Zelanda)(Joaquin Phoenix , Erkek , Porto Riko)}
+1999, Fight Club , Dram Gerilim Aksiyonu , David Fincher ,{(Brad Pitt ,Erkek ,ABD)(Edward Norton ,Erkek ,ABD)}
+1997,Titanic, Romantik, James Cameron, {(Leonardo DiCaprio, Erkek, ABD)(Kate Winslet, Kadın, Ingiltere)}
